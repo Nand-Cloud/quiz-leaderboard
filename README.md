@@ -163,6 +163,6 @@ Response: {"isCorrect":true,"isIdempotent":true,"submittedTotal":220,"expectedTo
 ## Author
 
 - **Name**: Nand Kishor Singh  
-- **Reg No**: RA2311003011580  
+- **Reg No**: RA2311028010070
 - **College**: SRM Institute of Science and Technology
 #
